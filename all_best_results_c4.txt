@@ -1,0 +1,102 @@
+Best Results for Instance c4
+
+Results from Seed 129:
+7 RCL 0.5230 PERT 4 IDSEQ 8 + mean value 396.979
+47 RCL 0.2355 PERT 4 IDSEQ 6 + mean value N/A
+24 RCL 0.4980 PERT 1 IDSEQ 6 + mean value N/A
+
+Results from Seed 137:
+95 RCL 0.3815 PERT 4 IDSEQ 1 + mean value 396.9406667
+89 RCL 0.6815 PERT 4 IDSEQ 22 + mean value N/A
+30 RCL 0.3752 PERT 2 IDSEQ 12 + mean value N/A
+
+Results from Seed 279:
+95 RCL 0.6456 PERT 4 IDSEQ 1 + mean value 397.1233333
+64 RCL 0.2768 PERT 4 IDSEQ 19 + mean value N/A
+108 RCL 0.3831 PERT 4 IDSEQ 3 + mean value N/A
+
+Results from Seed 672:
+89 RCL 0.4590 PERT 4 IDSEQ 15 + mean value 397.0513333
+15 RCL 0.5527 PERT 4 IDSEQ 6 + mean value N/A
+67 RCL 0.9340 PERT 3 IDSEQ 5 + mean value N/A
+
+Results from Seed 195:
+55 RCL 0.9586 PERT 3 IDSEQ 5 + mean value 397.172
+89 RCL 0.4024 PERT 4 IDSEQ 18 + mean value N/A
+81 RCL 0.5524 PERT 3 IDSEQ 5 + mean value N/A
+
+Results from Seed 666:
+96 RCL 0.7122 PERT 4 IDSEQ 8 + mean value 397.0513333
+2 RCL 0.4435 PERT 4 IDSEQ 6 + mean value N/A
+42 RCL 0.2310 PERT 4 IDSEQ 20 + mean value N/A
+
+Results from Seed 429:
+107 RCL 0.8251 PERT 3 IDSEQ 6 + mean value 397.0858462
+95 RCL 0.2126 PERT 3 IDSEQ 16 + mean value N/A
+91 RCL 0.7126 PERT 3 IDSEQ 7 + mean value N/A
+
+Results from Seed 762:
+7 RCL 0.5346 PERT 3 IDSEQ 6 + mean value 397.1233333
+47 RCL 0.6471 PERT 3 IDSEQ 5 + mean value N/A
+24 RCL 0.5596 PERT 4 IDSEQ 5 + mean value 397.1628571
+
+Results from Seed 821:
+101 RCL 0.8774 PERT 2 IDSEQ 0 + mean value 397.3446667
+60 RCL 0.9212 PERT 4 IDSEQ 18 + mean value N/A
+91 RCL 0.9399 PERT 4 IDSEQ 15 + mean value N/A
+
+Results from Seed 483:
+101 RCL 0.4551 PERT 4 IDSEQ 11 + mean value 397.217
+111 RCL 0.3051 PERT 2 IDSEQ 7 + mean value N/A
+14 RCL 0.5364 PERT 3 IDSEQ 21 + mean value N/A
+
+Results from Seed 999:
+30 RCL 0.4267 PERT 4 IDSEQ 2 + mean value 396.9731429
+72 RCL 0.3330 PERT 1 IDSEQ 4 + mean value N/A
+68 RCL 0.2330 PERT 3 IDSEQ 7 + mean value N/A
+
+Results from Seed 729:
+15 RCL 0.7016 PERT 4 IDSEQ 1 + mean value 397.234
+74 RCL 0.9703 PERT 3 IDSEQ 13 + mean value N/A
+40 RCL 0.6141 PERT 3 IDSEQ 4 + mean value N/A
+
+Results from Seed 318:
+33 RCL 0.8878 PERT 2 IDSEQ 3 + mean value 397.234
+51 RCL 0.6128 PERT 4 IDSEQ 14 + mean value N/A
+44 RCL 0.2378 PERT 4 IDSEQ 22 + mean value N/A
+
+Results from Seed 349:
+75 RCL 0.3958 PERT 4 IDSEQ 7 + mean value 396.7576667
+73 RCL 0.9958 PERT 3 IDSEQ 1 + mean value N/A
+35 RCL 0.8270 PERT 3 IDSEQ 4 + mean value N/A
+
+Results from Seed 287:
+5 RCL 0.6167 PERT 3 IDSEQ 11 + mean value 397.3051429
+26 RCL 0.8417 PERT 4 IDSEQ 8 + mean value 397.3288571
+73 RCL 0.2355 PERT 4 IDSEQ 19 + mean value N/A
+
+Results from Seed 241:
+18 RCL 0.2257 PERT 3 IDSEQ 12 + mean value 397.3262222
+27 RCL 0.8757 PERT 1 IDSEQ 7 + mean value N/A
+50 RCL 0.9882 PERT 2 IDSEQ 9 + mean value N/A
+
+Results from Seed 476:
+28 RCL 0.3834 PERT 4 IDSEQ 10 + mean value 397.1233333
+7 RCL 0.2584 PERT 4 IDSEQ 21 + mean value N/A
+49 RCL 0.9709 PERT 4 IDSEQ 14 + mean value N/A
+
+Results from Seed 555:
+13 RCL 0.3511 PERT 2 IDSEQ 18 + mean value 396.9406667
+65 RCL 0.7824 PERT 4 IDSEQ 3 + mean value N/A
+97 RCL 0.6199 PERT 4 IDSEQ 9 + mean value N/A
+
+Results from Seed 581:
+66 RCL 0.7960 PERT 2 IDSEQ 3 + mean value 397.1233333
+1 RCL 0.2272 PERT 4 IDSEQ 12 + mean value N/A
+27 RCL 0.3022 PERT 4 IDSEQ 1 + mean value 397.05525
+
+Results from Seed 573:
+65 RCL 0.4396 PERT 3 IDSEQ 8 + mean value 397.1786667
+77 RCL 0.7896 PERT 3 IDSEQ 22 + mean value 397.3446667
+18 RCL 0.5834 PERT 3 IDSEQ 11 + mean value N/A
+
